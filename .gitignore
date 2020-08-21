@@ -1,0 +1,8 @@
+# Vim temporary files
+*.swp
+
+# Nuxt run files
+.nuxt
+
+# Node Modules
+node_modules
